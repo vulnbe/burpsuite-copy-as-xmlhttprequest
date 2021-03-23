@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="burpsuite-copy-as-xmlhttprequest">
+    <output-path>$PROJECT_DIR$/out/artifacts/burpsuite_copy_as_xhr</output-path>
+    <root id="archive" name="burpsuite-copy-as-xmlhttprequest.jar">
+      <element id="module-output" name="burpsuite-copy-as-xmlhttprequest" />
+    </root>
+  </artifact>
+</component>
